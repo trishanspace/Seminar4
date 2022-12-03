@@ -16,7 +16,7 @@
 //     return numbers;
 // }
 
-// Выводит ошибку System.Int32
+// Выводит System.Int32
 
 Random random = new Random();
 

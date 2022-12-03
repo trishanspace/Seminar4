@@ -9,8 +9,8 @@ if (!isParsed1 || number1 < 1 || !isParsed2 || number2 < 1)
     Console.WriteLine("Incorrect");
 }
 
-int count = GetDegreeOfNumber();
-Console.WriteLine(count);
+int NumberInDegree = GetDegreeOfNumber();
+Console.WriteLine(NumberInDegree);
 
 int GetDegreeOfNumber()
 {

@@ -10,8 +10,8 @@ if (!isParsed || number < 1)
     Console.WriteLine("Incorrect");
 }
 
-int sum = GetSumNumber(number);
-Console.WriteLine(sum);
+int SumNumber = GetSumNumber(number);
+Console.WriteLine(SumNumber);
 int GetSumNumber (int number)
 {
     int sum = 0;

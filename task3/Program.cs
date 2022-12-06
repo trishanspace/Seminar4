@@ -3,10 +3,10 @@
 // 6, 1, 33 -> [6, 1, 33]
 
 // Random random = new Random();
-// int[] UserArray = Array();
-// Console.WriteLine(UserArray);
+// int[] Array = GetArrayNubers();
+// Console.Write(Array);
 
-// int[] Array()
+// int[] GetArrayNubers()
 // {
 //     int[] numbers = new int[8];
 //     for (int i = 0; i < numbers.Length; i++)
